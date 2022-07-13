@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px){
+.list1 {
+    display: none;
+}
+.logo1{
+    height:30px ;
+    width: 80px;
+}
+.btn1{
+    height: 25px;
+    width: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.img1{
+    background-position: center;
+}
+}
+    
